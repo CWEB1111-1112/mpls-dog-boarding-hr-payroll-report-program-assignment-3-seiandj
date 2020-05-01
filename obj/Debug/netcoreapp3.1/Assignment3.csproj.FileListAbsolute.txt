@@ -1,0 +1,11 @@
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Users\seiandj\Desktop\Programming 2\Assignments\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb

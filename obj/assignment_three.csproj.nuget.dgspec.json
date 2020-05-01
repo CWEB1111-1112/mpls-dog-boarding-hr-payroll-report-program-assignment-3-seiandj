@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seiandj\\Desktop\\Programming 2\\Assignments\\Assignment3\\assignment_three.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seiandj\\Desktop\\Programming 2\\Assignments\\Assignment3\\assignment_three.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seiandj\\Desktop\\Programming 2\\Assignments\\Assignment3\\assignment_three.csproj",
+        "projectName": "assignment_three",
+        "projectPath": "C:\\Users\\seiandj\\Desktop\\Programming 2\\Assignments\\Assignment3\\assignment_three.csproj",
+        "packagesPath": "C:\\Users\\seiandj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seiandj\\Desktop\\Programming 2\\Assignments\\Assignment3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seiandj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
